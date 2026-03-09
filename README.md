@@ -1,1 +1,3 @@
-# festival-management-system-design-construction
+# This was my second assignment for the module Databases. It began with the designing phase of a management system for a fictional music festival. I drafted an ERD, along with a data dictionary for each entity, containing charcteristics of their attributes - which were in third normal form - such as data type, field size, and required field.
+# After receiving external feedback and internal reflection, I built the database on MySQL, creating the entity tables with key relations to others, and designing subqueries and select, delete, update, and multi-row function queries across 2 or more tables.
+# The attached files contain the design report (Coursework 2.1), the construction report (Coursework 2.2), and the MySQL script. Outputs for complex queries can be found in the construction report.
