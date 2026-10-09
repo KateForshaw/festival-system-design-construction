@@ -22,6 +22,6 @@ This project was the second assignment for the Databases module of my Data Analy
 ## Files
 | File | Description |
 |------|-------------|
-| `CIS4503 assignment 2.1.docx` | Design report: ambiguities, assumptions, ERDs, normalisation and data dictionary |
-| `CIS4503 assignment 2.2.docx` | Construction report: query explanations, outputs and a discussion of design changes |
+| `CIS4503 assignment 2.1.pdf` | Design report: ambiguities, assumptions, ERDs, normalisation and data dictionary |
+| `CIS4503 assignment 2.2.pdf` | Construction report: query explanations, outputs and a discussion of design changes |
 | `CIS4503 coursework 2.2.sql` | MySQL script to create, populate and query the database |
